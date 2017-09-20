@@ -25,5 +25,7 @@ Organised and promoted a series of cultural & social activities. Assisted in the
 Assisted in the display of auctioned items both in the showroom prior to the event and on stage during the auction. Assisted in the logistics arrangements of the event. The auction eventually raised over 200,000 CNY.
 ### Languages
 English (Native)
+
 Chinese - Cantonese (Native)
+
 Chinese - Mandarin (Professional Working Proficiency)

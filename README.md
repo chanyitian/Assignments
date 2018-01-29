@@ -5,4 +5,4 @@ This repository consists of the following assignments:
 
 [My CV](https://github.com/chanyitian/Assignments/blob/master/CV.md#education)
 
-Assignment 1
+[Python Assignment](https://github.com/chanyitian/Assignments/blob/master/Python%2BAssignment.ipynb)
